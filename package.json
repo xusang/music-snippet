@@ -2,7 +2,7 @@
 	"name": "music-snippet",
 	"displayName": "music-snippet",
 	"description": "code-snippet",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.61.0"
 	},
@@ -38,7 +38,7 @@
 			{
 				"language": "typescriptreact",
 				"path": "./snippets.json"
-			},
+			}
 		],
 		"configuration": {
 			"properties": {
